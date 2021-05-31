@@ -3,7 +3,7 @@
 ## Demonstração 📸
 
 <div align="center" >
-  <img src="_imagens/lampada.gif" alt="demo-web" width="500" height="400">
+  <img src="_imagens/lampada.gif" alt="demo-web" height="400">
 </div>
 
 ---
