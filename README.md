@@ -1,4 +1,4 @@
-<h1 style="text-align: center; font-weight: bold;">Manipução da Lâmpada</h1>
+<h1 style="text-align: center; font-weight: bold;">Manipulação da Lâmpada</h1>
 
 ## Demonstração 📸
 
@@ -11,6 +11,8 @@
 ## Sobre o Projeto
 
 Projeto realizado para aprimorar os conhecimentos em JavaScript.
+
+Ligue e desligue a lâmpada, por meio dos botões e com o mouse, sendo que este possui uma função adicional de quebrá-la, ao clicar duas vezes. 
 
 ### 🛠 Tecnologias
 
